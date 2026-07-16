@@ -1,23 +1,20 @@
-# EchoReArchive
+# EchoArchive
 
-EchoArchive is a modern open-source music client for Archive.org.
+Modern open-source music client for Archive.org.
 
-## Features
+## Goal
 
-- 🎵 Stream music from Archive.org
-- 🔍 Fast search
-- 💿 Albums and artists
-- ❤️ Favorites
-- 📥 Offline caching
-- 🌙 Dark theme
-- ✨ Smooth animations
-- 🎧 Background playback
-- 📱 Built with Flutter
+A Spotify-like experience for Archive.org:
+- Music discovery
+- Albums and artists
+- High quality audio
+- Offline library
+- Beautiful animations
 
-## Project Status
+## Tech
 
-🚧 Under active development.
+Flutter + Dart
 
-## License
+## Status
 
-MIT
+🚧 Development started
