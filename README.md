@@ -1,4 +1,4 @@
-# EchoArchive
+# EchoReArchive
 
 EchoArchive is a modern open-source music client for Archive.org.
 
